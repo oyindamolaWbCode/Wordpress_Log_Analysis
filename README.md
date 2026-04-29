@@ -1,4 +1,5 @@
 Log Analysis – Compromised WordPress (Splunk)
+
 Overview
 
 This project documents the investigation of a compromised WordPress environment using log analysis in Splunk. The objective was to analyze web server access logs, identify suspicious activity, and determine how the attacker gained access to the system.
